@@ -15,4 +15,4 @@ Using cloud shell launch an instance of google cloud datalab and upload the note
 The notebooks are straight forward and self explanatory 
 
 Here are some results 
-![Sequence Diagram](.2.png)
+![Sequence Diagram](./2.png)
