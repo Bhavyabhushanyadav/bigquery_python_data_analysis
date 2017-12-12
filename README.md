@@ -15,6 +15,6 @@ Using cloud shell launch an instance of google cloud datalab and upload the note
 The notebooks are straight forward and self explanatory 
 
 Here are some results, more details are @ [link to medium post!](https://medium.com/mldatascience/eda-using-cloudstorage-bigquery-datalab-and-more-cc67327629ef)
-![Sequence Diagram](./2.png)
-![Sequence Diagram](./3.png)
-![Sequence Diagram](./7.png)
+![Sequence Diagram](./img/2.png)
+![Sequence Diagram](./img/3.png)
+![Sequence Diagram](./img/7.png)
